@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://laura-deluca.github.io/iiif-collection/collection.json",
+    "type": "Collection",
+    "label": {
+      "en": [
+        "Example Collection of Texts"
+      ]
+    },
+    "items": [
+      {
+        "id": "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/TheNature.manifest.json",
+        "type": "Manifest",
+        "label": {
+          "en": [
+            "The Nature and Effects of Superstition"
+          ]
+        }
+      },
+      {
+        "id": "https://laura-deluca.github.io/dhsi-2024-inclass/manifests/Hamlet.manifest.json",
+        "type": "Manifest",
+        "label": {
+          "en": [
+            "Hamlet by William Shakespeare"
+          ]
+        }
+      }
+    ]
+  }  
